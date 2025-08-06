@@ -1,0 +1,224 @@
+Month	Associate Number	Project ID	Primary Location	Hiring Manager ID	Assignment	Opportunity ID	Service Line	Track & Subtrack	Demand Role	Designation	Revenue per Month per Resource
+Jul-25	1	798923	India1	96988	Veeva Quality	998987	S&PE - QEA	Validation + OQ+ DM testing / Sub Tower 1	Veeva Quality	A	750
+Jul-25	2	798923	India1	96988	Veeva Quality	998987	S&PE - QEA	Validation + OQ+ DM testing / Sub Tower 1	Veeva Quality	A	750
+Jul-25	3	798923	India1	96988	Veeva Clinical	998987	S&PE - QEA	Validation + OQ+ DM testing / Sub Tower 1	Veeva Clinical	M	750
+Jul-25	4	798923	India1	96988	Other systems-CSV Professional	998987	S&PE - QEA	Validation + OQ+ DM testing / Sub Tower 1	Other systems-CSV Professional	M	750
+Jul-25	5	798923	India1	96988	Other systems-CSV Professional	998987	S&PE - QEA	Validation + OQ+ DM testing / Sub Tower 1	Other systems-CSV Professional	M	750
+Jul-25	6	798923	Switzerland Zurich & Others (local)	96988	Other systems-CSV Professional	998987	S&PE - QEA	Validation + OQ+ DM testing / Sub Tower 1	Other systems-CSV Professional	M	6864
+Jul-25	7	798923	India1	96988	Veeva RIM	998987	S&PE - QEA	Validation + OQ+ DM testing / Sub Tower 1	Veeva RIM	SA	750
+Jul-25	8	798923	India1	96988	Other systems-Test Professional	998987	CT&I - AIA	AIA / Sub Tower 1	Other systems-Test Professional	SA	750
+Jul-25	9	798923	India1	96988	Other systems-Test Professional	998987	CT&I - AIA	AIA / Sub Tower 1	Other systems-Test Professional	SA	750
+Jul-25	10	798923	India1	96988	Other systems-Test Professional	998987	S&PE - QEA	Validation + OQ+ DM testing / Sub Tower 1	Other systems-Test Professional	SA	750
+Aug-25	1	798923	India1	96988	Veeva Quality	998987	S&PE - QEA	Validation + OQ+ DM testing / Sub Tower 1	Veeva Quality	A	750
+Aug-25	2	798923	India1	96988	Veeva Quality	998987	S&PE - QEA	Validation + OQ+ DM testing / Sub Tower 1	Veeva Quality	A	750
+Aug-25	3	798923	US	96989	SAP	998987	EPS - SAP	EPS ERP	SAP - FICO	AD	5714
+Aug-25	4	798923	India1	96988	Veeva Clinical	998987	S&PE - QEA	Validation + OQ+ DM testing / Sub Tower 1	Veeva Clinical	M	750
+Aug-25	5	798923	India1	96988	Other systems-CSV Professional	998987	S&PE - QEA	Validation + OQ+ DM testing / Sub Tower 1	Other systems-CSV Professional	M	750
+Aug-25	6	798923	India1	96988	Other systems-CSV Professional	998987	S&PE - QEA	Validation + OQ+ DM testing / Sub Tower 1	Other systems-CSV Professional	M	750
+Aug-25	7	798923	Switzerland Zurich & Others (local)	96988	Other systems-CSV Professional	998987	S&PE - QEA	Validation + OQ+ DM testing / Sub Tower 1	Other systems-CSV Professional	M	6864
+Aug-25	8	798923	India1	96988	Veeva RIM	998987	S&PE - QEA	Validation + OQ+ DM testing / Sub Tower 1	Veeva RIM	SA	750
+Aug-25	9	798923	India1	96988	Other systems-Test Professional	998987	CT&I - AIA	AIA / Sub Tower 1	Other systems-Test Professional	SA	750
+Aug-25	10	798923	India1	96988	Other systems-Test Professional	998987	CT&I - AIA	AIA / Sub Tower 1	Other systems-Test Professional	SA	750
+Aug-25	11	798923	India1	96988	Other systems-Test Professional	998987	S&PE - QEA	Validation + OQ+ DM testing / Sub Tower 1	Other systems-Test Professional	SA	750
+Sep-25	1	798923	India1	96988	Veeva Quality	998987	S&PE - QEA	Validation + OQ+ DM testing / Sub Tower 1	Veeva Quality	A	750
+Sep-25	2	798923	India1	96988	Veeva Quality	998987	S&PE - QEA	Validation + OQ+ DM testing / Sub Tower 1	Veeva Quality	A	750
+Sep-25	3	798923	US	96989	SAP	998987	EPS - SAP	EPS ERP	SAP - FICO	AD	5714
+Sep-25	4	798923	India1	96988	Veeva Clinical	998987	S&PE - QEA	Validation + OQ+ DM testing / Sub Tower 1	Veeva Clinical	M	750
+Sep-25	5	798923	India1	96988	Other systems-CSV Professional	998987	S&PE - QEA	Validation + OQ+ DM testing / Sub Tower 1	Other systems-CSV Professional	M	750
+Sep-25	6	798923	India1	96988	Other systems-CSV Professional	998987	S&PE - QEA	Validation + OQ+ DM testing / Sub Tower 1	Other systems-CSV Professional	M	750
+Sep-25	7	798923	Switzerland Zurich & Others (local)	96988	Other systems-CSV Professional	998987	S&PE - QEA	Validation + OQ+ DM testing / Sub Tower 1	Other systems-CSV Professional	M	6864
+Sep-25	8	798923	US	96990	SAP	998987	EPS - SAP	EPS ERP	SAP - FICO	M	6667
+Sep-25	9	798923	India1	96988	Veeva RIM	998987	S&PE - QEA	Validation + OQ+ DM testing / Sub Tower 1	Veeva RIM	SA	750
+Sep-25	10	798923	India1	96988	Other systems-Test Professional	998987	CT&I - AIA	AIA / Sub Tower 1	Other systems-Test Professional	SA	750
+Sep-25	11	798923	India1	96988	Other systems-Test Professional	998987	CT&I - AIA	AIA / Sub Tower 1	Other systems-Test Professional	SA	750
+Sep-25	12	798923	India1	96988	Other systems-Test Professional	998987	S&PE - QEA	Validation + OQ+ DM testing / Sub Tower 1	Other systems-Test Professional	SA	750
+Oct-25	1	798923	India1	96988	Veeva Quality	998987	S&PE - QEA	Validation + OQ+ DM testing / Sub Tower 1	Veeva Quality	A	750
+Oct-25	2	798923	India1	96988	Veeva Quality	998987	S&PE - QEA	Validation + OQ+ DM testing / Sub Tower 1	Veeva Quality	A	750
+Oct-25	3	798923	US	96989	SAP	998987	EPS - SAP	EPS ERP	SAP - FICO	AD	5714
+Oct-25	4	798923	India1	96988	Veeva Clinical	998987	S&PE - QEA	Validation + OQ+ DM testing / Sub Tower 1	Veeva Clinical	M	750
+Oct-25	5	798923	India1	96988	Other systems-CSV Professional	998987	S&PE - QEA	Validation + OQ+ DM testing / Sub Tower 1	Other systems-CSV Professional	M	750
+Oct-25	6	798923	India1	96988	Other systems-CSV Professional	998987	S&PE - QEA	Validation + OQ+ DM testing / Sub Tower 1	Other systems-CSV Professional	M	750
+Oct-25	7	798923	Switzerland Zurich & Others (local)	96988	Other systems-CSV Professional	998987	S&PE - QEA	Validation + OQ+ DM testing / Sub Tower 1	Other systems-CSV Professional	M	6864
+Oct-25	8	798923	US	96990	SAP	998987	EPS - SAP	EPS ERP	SAP - FICO	M	6667
+Oct-25	9	798923	India1	96988	Veeva RIM	998987	S&PE - QEA	Validation + OQ+ DM testing / Sub Tower 1	Veeva RIM	SA	750
+Oct-25	10	798923	India1	96988	Other systems-Test Professional	998987	CT&I - AIA	AIA / Sub Tower 1	Other systems-Test Professional	SA	750
+Oct-25	11	798923	India1	96988	Other systems-Test Professional	998987	CT&I - AIA	AIA / Sub Tower 1	Other systems-Test Professional	SA	750
+Oct-25	12	798923	India1	96988	Other systems-Test Professional	998987	S&PE - QEA	Validation + OQ+ DM testing / Sub Tower 1	Other systems-Test Professional	SA	750
+Oct-25	13	798923	India1	96991	SAP	998987	EPS - SAP	EPS ERP	SAP - FICO	SA	750
+Oct-25	14	798923	India1	96991	SAP	998987	EPS - SAP	EPS ERP	SAP - FICO	SA	750
+Oct-25	15	798923	India1	96991	SAP	998987	EPS - SAP	EPS ERP	SAP - FICO	SA	750
+Oct-25	16	798923	India1	96991	SAP	998987	EPS - SAP	EPS ERP	SAP - FICO	SA	750
+Oct-25	17	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP - Security	SA	591
+Oct-25	18	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP - Security	SA	591
+Oct-25	19	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP - Security	SA	591
+Oct-25	20	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP- ABAP	SA	591
+Oct-25	21	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP- ABAP	SA	591
+Oct-25	22	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP- ABAP	SA	591
+Oct-25	23	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP- ABAP	SA	591
+Oct-25	24	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP- ABAP	SA	591
+Oct-25	25	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP- ABAP	SA	591
+Nov-25	1	798923	India1	96988	Veeva Quality	998987	S&PE - QEA	Validation + OQ+ DM testing / Sub Tower 1	Veeva Quality	A	750
+Nov-25	2	798923	India1	96988	Veeva Quality	998987	S&PE - QEA	Validation + OQ+ DM testing / Sub Tower 1	Veeva Quality	A	750
+Nov-25	3	798923	India1	96992	SAP	998987	EPS - SAP	EPS Data	SAP- Data	A	625
+Nov-25	4	798923	India1	96992	SAP	998987	EPS - SAP	EPS Data	SAP- Data	A	625
+Nov-25	5	798923	India1	96992	SAP	998987	EPS - SAP	EPS Data	SAP- Data	A	625
+Nov-25	6	798923	India1	96992	SAP	998987	EPS - SAP	EPS Data	SAP- Data	A	625
+Nov-25	7	798923	India1	96992	SAP	998987	EPS - SAP	EPS Data	SAP- Data	A	625
+Nov-25	8	798923	India1	96992	SAP	998987	EPS - SAP	EPS Data	SAP- Data	A	625
+Nov-25	9	798923	India1	96992	SAP	998987	EPS - SAP	EPS Data	SAP- Data	A	625
+Nov-25	10	798923	India1	96992	SAP	998987	EPS - SAP	EPS Data	SAP- Data	A	625
+Nov-25	11	798923	US	96989	SAP	998987	EPS - SAP	EPS ERP	SAP - FICO	AD	5714
+Nov-25	12	798923	India1	96988	Veeva Clinical	998987	S&PE - QEA	Validation + OQ+ DM testing / Sub Tower 1	Veeva Clinical	M	750
+Nov-25	13	798923	India1	96988	Other systems-CSV Professional	998987	S&PE - QEA	Validation + OQ+ DM testing / Sub Tower 1	Other systems-CSV Professional	M	750
+Nov-25	14	798923	India1	96988	Other systems-CSV Professional	998987	S&PE - QEA	Validation + OQ+ DM testing / Sub Tower 1	Other systems-CSV Professional	M	750
+Nov-25	15	798923	Switzerland Zurich & Others (local)	96988	Other systems-CSV Professional	998987	S&PE - QEA	Validation + OQ+ DM testing / Sub Tower 1	Other systems-CSV Professional	M	6864
+Nov-25	16	798923	US	96990	SAP	998987	EPS - SAP	EPS ERP	SAP - FICO	M	6667
+Nov-25	17	798923	India1	96988	Veeva RIM	998987	S&PE - QEA	Validation + OQ+ DM testing / Sub Tower 1	Veeva RIM	SA	750
+Nov-25	18	798923	India1	96988	Other systems-Test Professional	998987	CT&I - AIA	AIA / Sub Tower 1	Other systems-Test Professional	SA	750
+Nov-25	19	798923	India1	96988	Other systems-Test Professional	998987	CT&I - AIA	AIA / Sub Tower 1	Other systems-Test Professional	SA	750
+Nov-25	20	798923	India1	96988	Other systems-Test Professional	998987	S&PE - QEA	Validation + OQ+ DM testing / Sub Tower 1	Other systems-Test Professional	SA	750
+Nov-25	21	798923	India1	96991	SAP	998987	EPS - SAP	EPS ERP	SAP - FICO	SA	750
+Nov-25	22	798923	India1	96991	SAP	998987	EPS - SAP	EPS ERP	SAP - FICO	SA	750
+Nov-25	23	798923	India1	96991	SAP	998987	EPS - SAP	EPS ERP	SAP - FICO	SA	750
+Nov-25	24	798923	India1	96991	SAP	998987	EPS - SAP	EPS ERP	SAP - FICO	SA	750
+Nov-25	25	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP - Basis	SA	700
+Nov-25	26	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP - Basis	SA	700
+Nov-25	27	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP - Basis	SA	700
+Nov-25	28	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP - Basis	SA	700
+Nov-25	29	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP - Security	SA	591
+Nov-25	30	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP - Security	SA	591
+Nov-25	31	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP - Security	SA	591
+Nov-25	32	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP- ABAP	SA	591
+Nov-25	33	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP- ABAP	SA	591
+Nov-25	34	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP- ABAP	SA	591
+Nov-25	35	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP- ABAP	SA	591
+Nov-25	36	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP- ABAP	SA	591
+Nov-25	37	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP- ABAP	SA	591
+Dec-25	1	798923	India1	96988	Veeva Quality	998987	S&PE - QEA	Validation + OQ+ DM testing / Sub Tower 1	Veeva Quality	A	750
+Dec-25	2	798923	India1	96988	Veeva Quality	998987	S&PE - QEA	Validation + OQ+ DM testing / Sub Tower 1	Veeva Quality	A	750
+Dec-25	3	798923	India1	96992	SAP	998987	EPS - SAP	EPS Data	SAP- Data	A	625
+Dec-25	4	798923	India1	96992	SAP	998987	EPS - SAP	EPS Data	SAP- Data	A	625
+Dec-25	5	798923	India1	96992	SAP	998987	EPS - SAP	EPS Data	SAP- Data	A	625
+Dec-25	6	798923	India1	96992	SAP	998987	EPS - SAP	EPS Data	SAP- Data	A	625
+Dec-25	7	798923	India1	96992	SAP	998987	EPS - SAP	EPS Data	SAP- Data	A	625
+Dec-25	8	798923	India1	96992	SAP	998987	EPS - SAP	EPS Data	SAP- Data	A	625
+Dec-25	9	798923	India1	96992	SAP	998987	EPS - SAP	EPS Data	SAP- Data	A	625
+Dec-25	10	798923	India1	96992	SAP	998987	EPS - SAP	EPS Data	SAP- Data	A	625
+Dec-25	11	798923	US	96989	SAP	998987	EPS - SAP	EPS ERP	SAP - FICO	AD	5714
+Dec-25	12	798923	India1	96988	Veeva Clinical	998987	S&PE - QEA	Validation + OQ+ DM testing / Sub Tower 1	Veeva Clinical	M	750
+Dec-25	13	798923	India1	96988	Other systems-CSV Professional	998987	S&PE - QEA	Validation + OQ+ DM testing / Sub Tower 1	Other systems-CSV Professional	M	750
+Dec-25	14	798923	India1	96988	Other systems-CSV Professional	998987	S&PE - QEA	Validation + OQ+ DM testing / Sub Tower 1	Other systems-CSV Professional	M	750
+Dec-25	15	798923	Switzerland Zurich & Others (local)	96988	Other systems-CSV Professional	998987	S&PE - QEA	Validation + OQ+ DM testing / Sub Tower 1	Other systems-CSV Professional	M	6864
+Dec-25	16	798923	US	96990	SAP	998987	EPS - SAP	EPS ERP	SAP - FICO	M	6667
+Dec-25	17	798923	India1	96988	Veeva RIM	998987	S&PE - QEA	Validation + OQ+ DM testing / Sub Tower 1	Veeva RIM	SA	750
+Dec-25	18	798923	India1	96988	Other systems-Test Professional	998987	CT&I - AIA	AIA / Sub Tower 1	Other systems-Test Professional	SA	750
+Dec-25	19	798923	India1	96988	Other systems-Test Professional	998987	CT&I - AIA	AIA / Sub Tower 1	Other systems-Test Professional	SA	750
+Dec-25	20	798923	India1	96988	Other systems-Test Professional	998987	S&PE - QEA	Validation + OQ+ DM testing / Sub Tower 1	Other systems-Test Professional	SA	750
+Dec-25	21	798923	India1	96991	SAP	998987	EPS - SAP	EPS ERP	SAP - FICO	SA	750
+Dec-25	22	798923	India1	96991	SAP	998987	EPS - SAP	EPS ERP	SAP - FICO	SA	750
+Dec-25	23	798923	India1	96991	SAP	998987	EPS - SAP	EPS ERP	SAP - FICO	SA	750
+Dec-25	24	798923	India1	96991	SAP	998987	EPS - SAP	EPS ERP	SAP - FICO	SA	750
+Dec-25	25	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP - Basis	SA	700
+Dec-25	26	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP - Basis	SA	700
+Dec-25	27	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP - Basis	SA	700
+Dec-25	28	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP - Basis	SA	700
+Dec-25	29	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP - Security	SA	591
+Dec-25	30	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP - Security	SA	591
+Dec-25	31	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP - Security	SA	591
+Dec-25	32	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP- ABAP	SA	591
+Dec-25	33	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP- ABAP	SA	591
+Dec-25	34	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP- ABAP	SA	591
+Dec-25	35	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP- ABAP	SA	591
+Dec-25	36	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP- ABAP	SA	591
+Dec-25	37	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP- ABAP	SA	591
+Jan-26	1	798923	India1	96992	SAP	998987	EPS - SAP	EPS Data	SAP- Data	A	625
+Jan-26	2	798923	India1	96992	SAP	998987	EPS - SAP	EPS Data	SAP- Data	A	625
+Jan-26	3	798923	India1	96992	SAP	998987	EPS - SAP	EPS Data	SAP- Data	A	625
+Jan-26	4	798923	India1	96992	SAP	998987	EPS - SAP	EPS Data	SAP- Data	A	625
+Jan-26	5	798923	India1	96992	SAP	998987	EPS - SAP	EPS Data	SAP- Data	A	625
+Jan-26	6	798923	India1	96992	SAP	998987	EPS - SAP	EPS Data	SAP- Data	A	625
+Jan-26	7	798923	India1	96992	SAP	998987	EPS - SAP	EPS Data	SAP- Data	A	625
+Jan-26	8	798923	India1	96992	SAP	998987	EPS - SAP	EPS Data	SAP- Data	A	625
+Jan-26	9	798923	US	96989	SAP	998987	EPS - SAP	EPS ERP	SAP - FICO	AD	5714
+Jan-26	10	798923	India1	96988	Veeva Clinical	998987	S&PE - QEA	Validation + OQ+ DM testing / Sub Tower 1	Veeva Clinical	M	750
+Jan-26	11	798923	India1	96988	Other systems-CSV Professional	998987	S&PE - QEA	Validation + OQ+ DM testing / Sub Tower 1	Other systems-CSV Professional	M	750
+Jan-26	12	798923	India1	96988	Other systems-CSV Professional	998987	S&PE - QEA	Validation + OQ+ DM testing / Sub Tower 1	Other systems-CSV Professional	M	750
+Jan-26	13	798923	US	96990	SAP	998987	EPS - SAP	EPS ERP	SAP - FICO	M	6667
+Jan-26	14	798923	India1	96988	Other systems-Test Professional	998987	CT&I - AIA	AIA / Sub Tower 1	Other systems-Test Professional	SA	750
+Jan-26	15	798923	India1	96988	Other systems-Test Professional	998987	CT&I - AIA	AIA / Sub Tower 1	Other systems-Test Professional	SA	750
+Jan-26	16	798923	India1	96988	Other systems-Test Professional	998987	S&PE - QEA	Validation + OQ+ DM testing / Sub Tower 1	Other systems-Test Professional	SA	750
+Jan-26	17	798923	India1	96991	SAP	998987	EPS - SAP	EPS ERP	SAP - FICO	SA	750
+Jan-26	18	798923	India1	96991	SAP	998987	EPS - SAP	EPS ERP	SAP - FICO	SA	750
+Jan-26	19	798923	India1	96991	SAP	998987	EPS - SAP	EPS ERP	SAP - FICO	SA	750
+Jan-26	20	798923	India1	96991	SAP	998987	EPS - SAP	EPS ERP	SAP - FICO	SA	750
+Jan-26	21	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP - Basis	SA	700
+Jan-26	22	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP - Basis	SA	700
+Jan-26	23	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP - Basis	SA	700
+Jan-26	24	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP - Basis	SA	700
+Jan-26	25	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP - Security	SA	591
+Jan-26	26	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP - Security	SA	591
+Jan-26	27	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP - Security	SA	591
+Jan-26	28	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP- ABAP	SA	591
+Jan-26	29	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP- ABAP	SA	591
+Jan-26	30	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP- ABAP	SA	591
+Jan-26	31	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP- ABAP	SA	591
+Jan-26	32	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP- ABAP	SA	591
+Jan-26	33	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP- ABAP	SA	591
+Feb-26	1	798923	India1	96992	SAP	998987	EPS - SAP	EPS Data	SAP- Data	A	625
+Feb-26	2	798923	India1	96992	SAP	998987	EPS - SAP	EPS Data	SAP- Data	A	625
+Feb-26	3	798923	India1	96992	SAP	998987	EPS - SAP	EPS Data	SAP- Data	A	625
+Feb-26	4	798923	India1	96992	SAP	998987	EPS - SAP	EPS Data	SAP- Data	A	625
+Feb-26	5	798923	India1	96992	SAP	998987	EPS - SAP	EPS Data	SAP- Data	A	625
+Feb-26	6	798923	India1	96992	SAP	998987	EPS - SAP	EPS Data	SAP- Data	A	625
+Feb-26	7	798923	India1	96992	SAP	998987	EPS - SAP	EPS Data	SAP- Data	A	625
+Feb-26	8	798923	India1	96992	SAP	998987	EPS - SAP	EPS Data	SAP- Data	A	625
+Feb-26	9	798923	US	96989	SAP	998987	EPS - SAP	EPS ERP	SAP - FICO	AD	5714
+Feb-26	10	798923	India1	96988	Veeva Clinical	998987	S&PE - QEA	Validation + OQ+ DM testing / Sub Tower 1	Veeva Clinical	M	750
+Feb-26	11	798923	India1	96988	Other systems-CSV Professional	998987	S&PE - QEA	Validation + OQ+ DM testing / Sub Tower 1	Other systems-CSV Professional	M	750
+Feb-26	12	798923	India1	96988	Other systems-CSV Professional	998987	S&PE - QEA	Validation + OQ+ DM testing / Sub Tower 1	Other systems-CSV Professional	M	750
+Feb-26	13	798923	US	96990	SAP	998987	EPS - SAP	EPS ERP	SAP - FICO	M	6667
+Feb-26	14	798923	India1	96988	Other systems-Test Professional	998987	CT&I - AIA	AIA / Sub Tower 1	Other systems-Test Professional	SA	750
+Feb-26	15	798923	India1	96988	Other systems-Test Professional	998987	CT&I - AIA	AIA / Sub Tower 1	Other systems-Test Professional	SA	750
+Feb-26	16	798923	India1	96988	Other systems-Test Professional	998987	S&PE - QEA	Validation + OQ+ DM testing / Sub Tower 1	Other systems-Test Professional	SA	750
+Feb-26	17	798923	India1	96991	SAP	998987	EPS - SAP	EPS ERP	SAP - FICO	SA	750
+Feb-26	18	798923	India1	96991	SAP	998987	EPS - SAP	EPS ERP	SAP - FICO	SA	750
+Feb-26	19	798923	India1	96991	SAP	998987	EPS - SAP	EPS ERP	SAP - FICO	SA	750
+Feb-26	20	798923	India1	96991	SAP	998987	EPS - SAP	EPS ERP	SAP - FICO	SA	750
+Feb-26	21	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP - Basis	SA	700
+Feb-26	22	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP - Basis	SA	700
+Feb-26	23	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP - Basis	SA	700
+Feb-26	24	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP - Basis	SA	700
+Feb-26	25	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP - Security	SA	591
+Feb-26	26	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP - Security	SA	591
+Feb-26	27	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP - Security	SA	591
+Feb-26	28	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP- ABAP	SA	591
+Feb-26	29	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP- ABAP	SA	591
+Feb-26	30	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP- ABAP	SA	591
+Feb-26	31	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP- ABAP	SA	591
+Feb-26	32	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP- ABAP	SA	591
+Feb-26	33	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP- ABAP	SA	591
+Mar-26	1	798923	India1	96992	SAP	998987	EPS - SAP	EPS Data	SAP- Data	A	625
+Mar-26	2	798923	India1	96992	SAP	998987	EPS - SAP	EPS Data	SAP- Data	A	625
+Mar-26	3	798923	India1	96992	SAP	998987	EPS - SAP	EPS Data	SAP- Data	A	625
+Mar-26	4	798923	India1	96992	SAP	998987	EPS - SAP	EPS Data	SAP- Data	A	625
+Mar-26	5	798923	India1	96992	SAP	998987	EPS - SAP	EPS Data	SAP- Data	A	625
+Mar-26	6	798923	India1	96992	SAP	998987	EPS - SAP	EPS Data	SAP- Data	A	625
+Mar-26	7	798923	India1	96992	SAP	998987	EPS - SAP	EPS Data	SAP- Data	A	625
+Mar-26	8	798923	India1	96992	SAP	998987	EPS - SAP	EPS Data	SAP- Data	A	625
+Mar-26	9	798923	India1	96991	SAP	998987	EPS - SAP	EPS ERP	SAP - FICO	SA	750
+Mar-26	10	798923	India1	96991	SAP	998987	EPS - SAP	EPS ERP	SAP - FICO	SA	750
+Mar-26	11	798923	India1	96991	SAP	998987	EPS - SAP	EPS ERP	SAP - FICO	SA	750
+Mar-26	12	798923	India1	96991	SAP	998987	EPS - SAP	EPS ERP	SAP - FICO	SA	750
+Mar-26	13	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP - Basis	SA	700
+Mar-26	14	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP - Basis	SA	700
+Mar-26	15	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP - Basis	SA	700
+Mar-26	16	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP - Basis	SA	700
+Mar-26	17	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP - Security	SA	591
+Mar-26	18	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP - Security	SA	591
+Mar-26	19	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP - Security	SA	591
+Mar-26	20	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP- ABAP	SA	591
+Mar-26	21	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP- ABAP	SA	591
+Mar-26	22	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP- ABAP	SA	591
+Mar-26	23	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP- ABAP	SA	591
+Mar-26	24	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP- ABAP	SA	591
+Mar-26	25	798923	India1	96992	SAP	998987	EPS - SAP	EPS Tech	SAP- ABAP	SA	591
